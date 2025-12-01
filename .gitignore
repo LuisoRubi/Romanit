@@ -1,2 +1,4 @@
 /.venv
 /.history
+test.py
+/uv.lock
